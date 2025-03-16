@@ -53,6 +53,8 @@ Esses tratamentos foram aplicados para garantir que os dados refletissem com mai
 
 📄 analise_dashboard_petshop.docx → Documento com a análise descritiva do dashboard
 
+Obs: Devido à limitação de tamanho do arquivo para upload no GitHub, o arquivo de dados em Excel foi convertido de .csv para .xlsb. Caso queira realizar a exploração dos dados no Power BI Desktop, converta-o novamente para .csv e atualize a Fonte de Dados no Power BI com o caminho completo do diretório onde o arquivo está salvo.
+
 <br><br>
 ## 🌐 Acesse o Dashboard Online 
 
