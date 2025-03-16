@@ -49,20 +49,24 @@ Esses tratamentos foram aplicados para garantir que os dados refletissem com mai
 
 📊 projeto_petshop.pbix → Arquivo do dashboard desenvolvido no Power BI
 
+📄 vendas_linha_petshop_2020_2024.csv → Arquivo de dados brutos
+
 📄 analise_dashboard_petshop.docx → Documento com a análise descritiva do dashboard
 
 <br><br>
 🛠 **Como Executar**
 <br><br>
-1️⃣ Baixe o arquivo dash_petshop.pbix
+O arquivo projeto_petshop.pbix foi configurado para buscar os dados no arquivo CSV dentro da pasta Downloads/. Para que o dashboard funcione corretamente, siga os passos abaixo ao abrir o .pbix:
 
-2️⃣ Abra o Power BI Desktop
+1️⃣ Abra o arquivo projeto_petshop.pbix no Power BI Desktop
 
-3️⃣ Carregue o arquivo .pbix
+2️⃣ Na aba Transformar Dados, clique em Editar Consultas
 
-4️⃣ Explore os dados e interaja com os gráficos
-<br><br>
-💡 Observação: O arquivo PBIX foi salvo com os dados carregados para que não seja necessário o upload do arquivo de origem (Excel). 
+3️⃣ Na seção Fonte, atualize o caminho do arquivo vendas_linha_petshop_2020_2024.csv conforme o diretório local onde ele foi salvo
+
+4️⃣ Clique em Fechar e Aplicar para carregar os dados atualizados
+
+💡 Importante: Caso o Power BI exiba um erro de caminho de fonte de dados, basta redefinir o local do arquivo CSV conforme o seu diretório.
 
 <br><br>
 ## 🌐 Acesse o Dashboard Online 
