@@ -45,13 +45,13 @@ Esses tratamentos foram aplicados para garantir que os dados refletissem com mai
 <br><br>
 📂 **Arquivos no Repositório**
 <br><br>
+📄 analise_dashboard_petshop.docx → Documento com a análise descritiva do dashboard e insights para tomada de decisão da empresa
+
 📄 README.md → Descrição do projeto (este arquivo)
 
 📊 projeto_petshop.pbix → Arquivo do dashboard desenvolvido no Power BI
 
 📄 vendas_linha_petshop_2020_2024.xlsb → Arquivo de dados brutos
-
-📄 analise_dashboard_petshop.docx → Documento com a análise descritiva do dashboard
 
 Obs: Devido à limitação de tamanho do arquivo para upload no GitHub, o arquivo de dados em Excel foi convertido de .csv para .xlsb, sem nenhuma perda de dados ou funcionalidades.
 
