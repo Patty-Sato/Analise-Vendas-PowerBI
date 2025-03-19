@@ -11,7 +11,7 @@ O projeto foi desenvolvido como parte de um desafio de Visualização de Dados (
 <br><br>
 🚀 **Funcionalidades**
 <br><br>
-✅ Análise de Receita Total e Ticket Médio
+✅ Análise de Faturamento Total e Ticket Médio
 
 ✅ Distribuição de Vendas por Região do Brasil
 
@@ -19,9 +19,9 @@ O projeto foi desenvolvido como parte de um desafio de Visualização de Dados (
 
 ✅ Análise de Lucro Bruto e Margem de Lucro (%) ao longo dos anos
 
-✅ Receita por Categoria de Produto
+✅ Faturamento por Categoria de Produto
 
-✅ Tendências de Receita ao longo dos anos, trimestres e meses
+✅ Tendências de Faturamento ao longo dos anos, trimestres e meses
 
 ✅ Interatividade com filtros dinâmicos para segmentação de dados
 
