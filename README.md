@@ -35,7 +35,7 @@ O projeto foi desenvolvido como parte de um desafio de Visualização de Dados (
 <br><br>
 📂 **Arquivos no Repositório**
 <br><br>
-📄 analise_dashboard_petshop.pdf → Documento com a análise descritiva do dashboard e insights para tomada de decisão da empresa
+📄 analise_dashboard_petshop.pdf → Documento com a análise do dashboard, insights e recomendações para tomada de decisão da empresa
 
 📄 README.md → Descrição do projeto (este arquivo)
 
