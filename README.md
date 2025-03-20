@@ -32,6 +32,10 @@ O projeto foi desenvolvido como parte de um desafio de Visualização de Dados (
 🔗 [Visualizar no Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMDE1YjEyMjYtZjJmZS00Njk5LWI3YWItYzJkZDIxNGI0OThmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 
+## 📄 Acesse a Análise completa
+
+🔗 [Visualizar no GitHub](https://github.com/Patty-Sato/Analise-Vendas-PowerBI/blob/main/analise_dashboard_petshop.pdf)
+
 <br><br>
 📂 **Arquivos no Repositório**
 <br><br>
